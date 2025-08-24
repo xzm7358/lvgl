@@ -789,6 +789,8 @@
 
 #define LV_USE_SLIDER     1   /**< Requires: lv_bar */
 
+#define LV_USE_SKELETON   1
+
 #define LV_USE_SPAN       1
 #if LV_USE_SPAN
     /** A line of text can contain this maximum number of span descriptors. */
